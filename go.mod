@@ -3,7 +3,7 @@ module github.com/nosborn/ibgames-1999
 go 1.25
 
 require (
-	github.com/stretchr/testify v1.11.0
+	github.com/stretchr/testify v1.11.1
 	golang.org/x/sys v0.35.0
 	modernc.org/sqlite v1.38.2
 )
